@@ -5,4 +5,7 @@
 <div align="left">
   <img src="http://github-readme-stats.vercel.app/api?username=mir0173&show_icons=true&theme=gray" width=50%/>
 </div>
+<div align="right">
+  <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=mir0173&layout=compact&theme=swift" width=50%/>
+</div>
 
